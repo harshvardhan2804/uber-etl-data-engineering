@@ -1,3 +1,4 @@
+# Commands to install important dependencies and Libraries
 # Install Python and pip 
 sudo apt-get update
 
